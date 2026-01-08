@@ -20,6 +20,12 @@ Gold (Information Mart):
 
 Transforms the normalized Vault structures into a Star Schema (Facts and Dimensions), optimized for business intelligence and high-performance SQL queries.
 
+**Dashboard**
+<img width="1392" height="737" alt="image" src="https://github.com/user-attachments/assets/ce2ff42b-75c0-4555-88c2-dd5981accf31" />
+
+**Note**
+This project utilizes the Databricks samples.tpch and rate_source datasets to simulate high-volume metro operations. While station names and metrics are generated from these synthetic sources, the underlying architecture is designed to scale to real-world production telemetry.
+
 **Tech Stack**
 
 Platform: Databricks (Unity Catalog enabled)
